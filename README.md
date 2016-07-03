@@ -1,6 +1,6 @@
 # cowthinksbot
 
-Repo of the [cowthinksbot](https://telegram.me/cowsaysbot).
+Repo of the [cowthinksbot](https://telegram.me/cowthinksbot).
 
 Licensed under GPLv3.
 
